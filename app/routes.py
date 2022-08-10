@@ -6,5 +6,5 @@ def index():
     return "Hello, World!"
 
 @app.route('/teste')
-def index():
-    return "testando!"
+def teste():
+    return "testando 2!"
