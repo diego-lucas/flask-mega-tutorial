@@ -2,3 +2,7 @@
 2022-08-15 11:19:22,961 INFO: Microblog startup [in /home/diego/Code/flask-mega-tutorial/microblog/app/__init__.py:47]
 2022-08-15 11:19:27,065 INFO: Microblog startup [in /home/diego/Code/flask-mega-tutorial/microblog/app/__init__.py:47]
 2022-08-15 12:02:10,435 INFO: Microblog startup [in /home/diego/Code/flask-mega-tutorial/microblog/app/__init__.py:47]
+2022-08-16 18:45:27,490 INFO: Microblog startup [in /home/diego/Code/flask-mega-tutorial/microblog/app/__init__.py:63]
+2022-08-16 18:46:52,648 INFO: Microblog startup [in /home/diego/Code/flask-mega-tutorial/microblog/app/__init__.py:63]
+2022-08-16 18:47:23,630 INFO: Microblog startup [in /home/diego/Code/flask-mega-tutorial/microblog/app/__init__.py:63]
+2022-08-16 18:49:47,437 INFO: Microblog startup [in /home/diego/Code/flask-mega-tutorial/microblog/app/__init__.py:63]
