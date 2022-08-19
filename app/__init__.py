@@ -40,8 +40,12 @@ def create_app(config_class=Config):
     moment.init_app(app)
     babel.init_app(app)
 
+
     app.elasticsearch = Elasticsearch([app.config['ELASTICSEARCH_URL']], verify_certs=False) \
         if app.config['ELASTICSEARCH_URL'] else None
+        
+    from app.api import bp as api_bp
+    app.register_blueprint(api_bp, url_prefix='/api')
 
     from app.errors import bp as errors_bp
     app.register_blueprint(errors_bp)
