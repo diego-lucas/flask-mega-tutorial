@@ -1,0 +1,12 @@
+Log created: 2022-08-18T22:45:07.422608000Z
+Process ID:  31641 (0x7b99)
+Parent PID:  5523 (0x1593)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: microblog_default_1660830775982_41784
+Arg[3]: --startvm
+Arg[4]: f6fe255f-0584-45d6-9809-e5286acc20c4
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2
